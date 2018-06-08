@@ -7,7 +7,7 @@ package com.andriosi.fabio.designpattern.singleton;
 
 /**
  *
- * @author rcpd2158
+ * @author "Fábio Luis Andriosi"
  */
 public class SingleObject {
     private static SingleObject instance = new SingleObject();

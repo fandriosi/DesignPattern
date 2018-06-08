@@ -7,8 +7,9 @@ package com.andriosi.fabio.designpattern.builder;
 
 /**
  *
- * @author rcpd2158
+ * @author "Fábio Luis Andriosi"
  */
+
 public class MealBuilder {
     public Meal prepareVegMeal(Drinks drink){
         Meal meal = new Meal();
