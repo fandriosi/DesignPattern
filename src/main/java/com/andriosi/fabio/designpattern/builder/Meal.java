@@ -4,10 +4,12 @@
  * and open the template in the editor.
  */
 package com.andriosi.fabio.designpattern.builder;
+/**
+ *
+ * @author "Fábio Luis Andriosi"
+ */
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 /**

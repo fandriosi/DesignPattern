@@ -13,11 +13,10 @@ import com.andriosi.fabio.designpattern.factory.FactoryProducer;
 import com.andriosi.fabio.designpattern.factory.Shape;
 import com.andriosi.fabio.designpattern.factory.Shapes;
 import org.junit.Test;
-import static org.junit.Assert.*;
 
 /**
  *
- * @author rcpd2158
+ * @author "Fábio Luis Andriosi"
  */
 public class FactoryTeste {
     private final AbstractFactory sf;

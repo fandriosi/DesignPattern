@@ -7,7 +7,7 @@ package com.andriosi.fabio.designpattern.factory;
 
 /**
  *
- * @author rcpd2158
+ * @author "Fábio Luis Andriosi"
  */
 public enum Colors {
     RED, BLUE, GREEN;

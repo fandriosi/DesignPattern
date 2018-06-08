@@ -16,11 +16,10 @@ import com.andriosi.fabio.designpattern.builder.MealBuilder;
 import com.andriosi.fabio.designpattern.builder.Pepsi;
 import com.andriosi.fabio.designpattern.builder.VegBurger;
 import org.junit.Test;
-import static org.junit.Assert.*;
 
 /**
  *
- * @author rcpd2158
+ * @author "Fábio Luis Andriosi"
  */
 public class BuilderTeste {
     private Burger b;

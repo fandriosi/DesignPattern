@@ -11,7 +11,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author rcpd2158
+ * @author "Fábio Luis Andriosi"
  */
 public class TestSingleton {
     
