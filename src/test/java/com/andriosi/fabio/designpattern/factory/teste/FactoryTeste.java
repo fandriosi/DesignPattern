@@ -12,6 +12,7 @@ import com.andriosi.fabio.designpattern.factory.Colors;
 import com.andriosi.fabio.designpattern.factory.FactoryProducer;
 import com.andriosi.fabio.designpattern.factory.Shape;
 import com.andriosi.fabio.designpattern.factory.Shapes;
+import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 /**

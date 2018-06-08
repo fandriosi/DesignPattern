@@ -16,7 +16,8 @@ import com.andriosi.fabio.designpattern.builder.MealBuilder;
 import com.andriosi.fabio.designpattern.builder.Pepsi;
 import com.andriosi.fabio.designpattern.builder.VegBurger;
 import org.junit.Test;
-
+import org.junit.Assert;
+import static org.junit.Assert.assertEquals;
 /**
  *
  * @author "Fábio Luis Andriosi"

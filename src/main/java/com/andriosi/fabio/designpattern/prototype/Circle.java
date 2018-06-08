@@ -9,10 +9,10 @@ package com.andriosi.fabio.designpattern.prototype;
  *
  * @author "Fabio Luis Andriosi"
  */
-public class Cicle extends Shape{
+public class Circle extends Shape{
 
-    public Cicle() {
-        type = Shapes.CICLE;
+    public Circle() {
+        type = Shapes.CIRCLE;
     }
 
     @Override

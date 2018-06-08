@@ -10,5 +10,5 @@ package com.andriosi.fabio.designpattern.prototype;
  * @author "Fábio Luis Andriosi"
  */
 public enum Shapes {
-    SQUARE, CICLE,  RECTANGLE;
+    SQUARE, CIRCLE,  RECTANGLE;
 }
