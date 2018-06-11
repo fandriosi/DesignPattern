@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.andriosi.fabio.designpattern.factory.teste.PrototypeTeste
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.182 sec
