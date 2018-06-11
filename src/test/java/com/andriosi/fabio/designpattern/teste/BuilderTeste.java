@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.andriosi.fabio.designpattern.factory.teste;
+package com.andriosi.fabio.designpattern.teste;
 
 import com.andriosi.fabio.designpattern.builder.Burger;
 import com.andriosi.fabio.designpattern.builder.Burgers;
@@ -16,11 +16,11 @@ import com.andriosi.fabio.designpattern.builder.MealBuilder;
 import com.andriosi.fabio.designpattern.builder.Pepsi;
 import com.andriosi.fabio.designpattern.builder.VegBurger;
 import org.junit.Test;
-import org.junit.Assert;
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
+
 /**
  *
- * @author "Fábio Luis Andriosi"
+ * @author rcpd2158
  */
 public class BuilderTeste {
     private Burger b;
