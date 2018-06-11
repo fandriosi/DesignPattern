@@ -15,7 +15,7 @@ import org.junit.Test;
  * @author "Fábio Luis Andriosi"
  */
 public class AdapterTest {
-    AudioPlayer ap;
+    private AudioPlayer ap;
     public AdapterTest() {
         ap = new AudioPlayer();
     }

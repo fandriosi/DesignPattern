@@ -16,8 +16,8 @@ import org.junit.Test;
  * @author "Fábio Luis Andriosi"
  */
 public class CompositeTest {
-    List<Employee> sb;
-    Employee ceo, hs, hm, m1, m2, m3, s1, s2;
+    private List<Employee> sb;
+    private Employee ceo, hs, hm, m1, m2, m3, s1, s2;
     public CompositeTest() {
         this.ceo = new Employee("John", Departament.CEO, 30000.50f);
         this.hs = new Employee("Robert", Departament.HEAD_SALE, 20000.00f);

@@ -19,8 +19,8 @@ import org.junit.Test;
  * @author "Fábio Luis Andriosi"
  */
 public class FlyweightTest {
-    HashMap<String,Circle> cm = new HashMap<>();
-    Random r = new Random();
+    private HashMap<String,Circle> cm = new HashMap<>();
+    private Random r = new Random();
     public FlyweightTest() {
         String [] color = {Colors.BLACK.name(), Colors.BLUE.name(), Colors.GREEN.name(), Colors.RED.name(),Colors.WHITE.name()};
         for(int i = 0; i< color.length; i++){
