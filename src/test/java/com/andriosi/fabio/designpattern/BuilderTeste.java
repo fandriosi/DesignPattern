@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.andriosi.fabio.designpattern.teste;
+package com.andriosi.fabio.designpattern;
 
 import com.andriosi.fabio.designpattern.builder.Burger;
 import com.andriosi.fabio.designpattern.builder.Burgers;
