@@ -20,12 +20,12 @@ public abstract class AbstractLogger {
     }
     
     public String logMessage(int level, String message){   
-        String m = null;
+        String m ="";
         if(this.level <= level){
             m = write(message);
         }
         if(nextLogger != null){
-            m=nextLogger.logMessage(level, message);
+            m+=nextLogger.logMessage(level, message);
         }
         return m;
     }
